@@ -12,6 +12,18 @@ Think of it as an operations playbook with fewer surprises and more calm.
 - Reduce risk by using repeatable, reviewed steps.
 - Help people move fast without breaking things (or their weekend).
 
+## Built for AI & Vibe Coders 🤖
+
+If you use AI to help you code, you are in luck. 
+
+Most AI assistants are very confident but sometimes they make things up (people call this "hallucination"). To stop this, our protocols use a **pipeline design**:
+
+- **Step-by-Step**: We break big tasks into small, tiny pieces.
+- **Verification**: Each step checks its own work before moving to the next.
+- **Zero Surprises**: By forcing the AI to follow a strict pipeline, we keep it honest and drama-free.
+
+This makes this repo a perfect partner for **Vibe Coders** who want to build fast without getting lost in "AI imagination."
+
 ## What this repository is
 
 - A collection of **safe technical protocols**.
